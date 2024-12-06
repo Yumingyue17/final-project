@@ -8,3 +8,5 @@ matplotlib
 tqdm
 os
 re
+sqlite3
+math
