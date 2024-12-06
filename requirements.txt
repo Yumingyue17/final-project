@@ -10,3 +10,4 @@ os
 re
 sqlite3
 math
+folium
